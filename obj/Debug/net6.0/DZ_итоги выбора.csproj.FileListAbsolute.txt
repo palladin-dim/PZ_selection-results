@@ -1,0 +1,15 @@
+C:\Users\Vinsent\Desktop\DZ_итоги выбора\bin\Debug\net6.0\DZ_итоги выбора.exe
+C:\Users\Vinsent\Desktop\DZ_итоги выбора\bin\Debug\net6.0\DZ_итоги выбора.deps.json
+C:\Users\Vinsent\Desktop\DZ_итоги выбора\bin\Debug\net6.0\DZ_итоги выбора.runtimeconfig.json
+C:\Users\Vinsent\Desktop\DZ_итоги выбора\bin\Debug\net6.0\DZ_итоги выбора.dll
+C:\Users\Vinsent\Desktop\DZ_итоги выбора\bin\Debug\net6.0\DZ_итоги выбора.pdb
+C:\Users\Vinsent\Desktop\DZ_итоги выбора\obj\Debug\net6.0\DZ_итоги выбора.csproj.AssemblyReference.cache
+C:\Users\Vinsent\Desktop\DZ_итоги выбора\obj\Debug\net6.0\DZ_итоги выбора.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinsent\Desktop\DZ_итоги выбора\obj\Debug\net6.0\DZ_итоги выбора.AssemblyInfoInputs.cache
+C:\Users\Vinsent\Desktop\DZ_итоги выбора\obj\Debug\net6.0\DZ_итоги выбора.AssemblyInfo.cs
+C:\Users\Vinsent\Desktop\DZ_итоги выбора\obj\Debug\net6.0\DZ_итоги выбора.csproj.CoreCompileInputs.cache
+C:\Users\Vinsent\Desktop\DZ_итоги выбора\obj\Debug\net6.0\DZ_итоги выбора.dll
+C:\Users\Vinsent\Desktop\DZ_итоги выбора\obj\Debug\net6.0\refint\DZ_итоги выбора.dll
+C:\Users\Vinsent\Desktop\DZ_итоги выбора\obj\Debug\net6.0\DZ_итоги выбора.pdb
+C:\Users\Vinsent\Desktop\DZ_итоги выбора\obj\Debug\net6.0\DZ_итоги выбора.genruntimeconfig.cache
+C:\Users\Vinsent\Desktop\DZ_итоги выбора\obj\Debug\net6.0\ref\DZ_итоги выбора.dll
