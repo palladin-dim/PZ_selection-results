@@ -1,0 +1,15 @@
+C:\Users\Vinsent\Desktop\Домашка\Semester1_DZ\Итоги 1 семестр\PZ_итоги выбора\bin\Debug\net6.0\PZ_итоги выбора.exe
+C:\Users\Vinsent\Desktop\Домашка\Semester1_DZ\Итоги 1 семестр\PZ_итоги выбора\bin\Debug\net6.0\PZ_итоги выбора.deps.json
+C:\Users\Vinsent\Desktop\Домашка\Semester1_DZ\Итоги 1 семестр\PZ_итоги выбора\bin\Debug\net6.0\PZ_итоги выбора.runtimeconfig.json
+C:\Users\Vinsent\Desktop\Домашка\Semester1_DZ\Итоги 1 семестр\PZ_итоги выбора\bin\Debug\net6.0\PZ_итоги выбора.dll
+C:\Users\Vinsent\Desktop\Домашка\Semester1_DZ\Итоги 1 семестр\PZ_итоги выбора\bin\Debug\net6.0\PZ_итоги выбора.pdb
+C:\Users\Vinsent\Desktop\Домашка\Semester1_DZ\Итоги 1 семестр\PZ_итоги выбора\obj\Debug\net6.0\PZ_итоги выбора.csproj.AssemblyReference.cache
+C:\Users\Vinsent\Desktop\Домашка\Semester1_DZ\Итоги 1 семестр\PZ_итоги выбора\obj\Debug\net6.0\PZ_итоги выбора.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinsent\Desktop\Домашка\Semester1_DZ\Итоги 1 семестр\PZ_итоги выбора\obj\Debug\net6.0\PZ_итоги выбора.AssemblyInfoInputs.cache
+C:\Users\Vinsent\Desktop\Домашка\Semester1_DZ\Итоги 1 семестр\PZ_итоги выбора\obj\Debug\net6.0\PZ_итоги выбора.AssemblyInfo.cs
+C:\Users\Vinsent\Desktop\Домашка\Semester1_DZ\Итоги 1 семестр\PZ_итоги выбора\obj\Debug\net6.0\PZ_итоги выбора.csproj.CoreCompileInputs.cache
+C:\Users\Vinsent\Desktop\Домашка\Semester1_DZ\Итоги 1 семестр\PZ_итоги выбора\obj\Debug\net6.0\PZ_итоги выбора.dll
+C:\Users\Vinsent\Desktop\Домашка\Semester1_DZ\Итоги 1 семестр\PZ_итоги выбора\obj\Debug\net6.0\refint\PZ_итоги выбора.dll
+C:\Users\Vinsent\Desktop\Домашка\Semester1_DZ\Итоги 1 семестр\PZ_итоги выбора\obj\Debug\net6.0\PZ_итоги выбора.pdb
+C:\Users\Vinsent\Desktop\Домашка\Semester1_DZ\Итоги 1 семестр\PZ_итоги выбора\obj\Debug\net6.0\PZ_итоги выбора.genruntimeconfig.cache
+C:\Users\Vinsent\Desktop\Домашка\Semester1_DZ\Итоги 1 семестр\PZ_итоги выбора\obj\Debug\net6.0\ref\PZ_итоги выбора.dll

@@ -1,4 +1,4 @@
-﻿string [] startingArray = new string[] {"hello", "2", "world", ":-)"};
+﻿string [] startingArray = new string[] {"hello", "2112", "world", ":-)"};
 string[] resultArray = new string [0];
 
 foreach (var item in startingArray)

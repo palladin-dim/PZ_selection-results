@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vinsent\\Desktop\\DZ_итоги выбора\\DZ_итоги выбора.csproj",
-      "projectName": "DZ_итоги выбора",
-      "projectPath": "C:\\Users\\Vinsent\\Desktop\\DZ_итоги выбора\\DZ_итоги выбора.csproj",
+      "projectUniqueName": "C:\\Users\\Vinsent\\Desktop\\Домашка\\Semester1_DZ\\Итоги 1 семестр\\PZ_итоги выбора\\PZ_итоги выбора.csproj",
+      "projectName": "PZ_итоги выбора",
+      "projectPath": "C:\\Users\\Vinsent\\Desktop\\Домашка\\Semester1_DZ\\Итоги 1 семестр\\PZ_итоги выбора\\PZ_итоги выбора.csproj",
       "packagesPath": "C:\\Users\\Vinsent\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vinsent\\Desktop\\DZ_итоги выбора\\obj\\",
+      "outputPath": "C:\\Users\\Vinsent\\Desktop\\Домашка\\Semester1_DZ\\Итоги 1 семестр\\PZ_итоги выбора\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vinsent\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.305\\RuntimeIdentifierGraph.json"
       }
     }
   }
